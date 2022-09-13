@@ -40,14 +40,16 @@ Bei diesem Code wird entschieden das wenn die eingegebene Zahl kleiner als die Z
 ## Verifikation
 
 Bild: Auf dem Bild ist gezeigt das ich Farben eingebaut habe als Beispiel das die Zahl ist grösser mit einer Hintergrundfarbe Rot ist.
+
 Code: In meinem Code kann man sehen wie ich bei einer bestimmten entscheidung die Schrift gefärbt wird.
+
 Text: In meinem Text habe ich ein Teil von dem was ich gelernt habe dokumentiert bei mir ist das wie man Schrift färbt und sie wieder resetet.
 
 
 # Reflektion zum Arbeitsprozess
 
-An meiner Arbeit lief gut das ich die meiste Zeit viel Motivation hatte ein gutes Programm zu machen das auch gut läuft. Auch gut war das ich meine meisten Ziel in guter Zeit erfüllen konnte. 
+An meiner Arbeit lief gut das ich die meiste Zeit viel Motivation hatte ein gutes Programm zu machen das auch gut läuft. Auch gut war das ich meine meisten Ziele in guter Zeit erfüllen konnte. 
 
-An meiner Arbeit lief nicht gut das ich an einem Tag im Lernatilier nicht sehr protuktiv wahr. Dazu konnte ich die Sounds nicht einbauen das hat mich etwas frustriert aber nicht davon abgehalten weiter zu machen.
+An meiner Arbeit lief nicht gut das ich an einem Tag im Lernatilier nicht sehr protuktiv war. Dazu kommt noch das ich die Sounds nicht einbauen konnte das hat mich etwas frustriert aber nicht davon abgehalten weiter zu machen.
 
 **VBV**: Verbesserungs Vorschläge von mir an mich währen das ich immer Konzentriert bin und aktiv am Unterricht teilnehme und auch an meiner eigenen Arbeit zu Arbeiten. Bei dem Problem mit dem Sound sollte ich mich das nächste mal erst mehr informieren und besser planen.
