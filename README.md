@@ -9,26 +9,40 @@ Ich habe ein kleines Programm erstellt das Zufällige Zahlen zwischen 1 und 100 
 
 ## Was habe ich gelernt?
 
-Ich habe bei diesem Projekt gelernt eine do while, if und else if schleife anzuwenden.
+Ich habe gelernt Text zu färben und den Hintergrund auch zu färben.
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
-Ich habe ihn diesem Projekt gelernt eine Schleife wie do while und else if anzuwenden das bringt das als Beispiel bei meinem Zahlengenerator immmer wieder nach der Zahl gefragt wird bis man die richtige Zahl eingibt. Auch habe ich gelernt try catch anzuwenden dies ist dazu wichtig das eingaben die nicht gewünscht sind gefiltert werden z.B. bei dem Zahlengenerator Buchstaben oder zu grosse oder zu kleine Zahlen eingibt. Dann kann man mit Console.WriteLine("") einen Text eingeben wie als Beispiel "Geben Sie eine ZAHL zwischen 1 und 100 ein".
-
-
+In meiner Arbeit habe ich gelernt Farbe einzubauen wie als Beispiel der Schrift eine eigene Farbe gebe und auch dem Hintergrund eine andere Farbe zu geben. Auch noch kann ich erstellen das bei der nächsten Zeile wieder alles normal ist. Dies kann man dann auch belibig wiederholen. Man muss dafür erst einmal Console.ForegroundColor = dann kann man eine belibige Farbe auswählen bei mir weiss danach Console.BackgroundColor = dann auch eine belibige Zahl auswählen 
+und dann kann man erst mit Console.WriteLine(""); deinen Text eingeben der geferbt werden muss. Zuletzt noch Console.ResetColor(); das die Farben nicht für immer bleiben sondern wieder wie am anfang ohne Backgroundcolor oder Foregroundcolor.
 
 
 
+```
+ if (guess < Random)
+{
+    Console.ForegroundColor = ConsoleColor.White;
+    Console.BackgroundColor = ConsoleColor.Red;
+    Console.WriteLine("Zahl ist grösser");
+    Console.ResetColor();
+}
+                        
+```
+Bei diesem Code wird entschieden das wenn die eingegebene Zahl kleiner als die Zahl die vom Programm generiert wurde ist. Wenn dies zutrifft, dann wird ausgegeben "Zahl ist grösser" dazu kommt noch das die schrift weiss ist und der Hintergrund rot.
 
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+
+<img width="197" alt="Bildschirmfoto 2022-09-13 um 10 30 33" src="https://user-images.githubusercontent.com/110892642/189852329-4b1cba4a-6e03-4e7b-9ad4-05b0b51a94f1.png">
+
+
+
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Bild: Auf dem Bild ist gezeigt das ich Farben eingebaut habe als Beispiel das die Zahl ist grösser mit einer Hintergrundfarbe Rot ist.
+Code: In meinem Code kann man sehen wie ich bei einer bestimmten entscheidung die Schrift gefärbt wird.
+Text: In meinem Text habe ich ein Teil von dem was ich gelernt habe dokumentiert bei mir ist das wie man Schrift färbt und sie wieder resetet.
+
 
 # Reflektion zum Arbeitsprozess
 
